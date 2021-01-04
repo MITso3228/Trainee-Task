@@ -1,5 +1,5 @@
 # Trainee-Task
-Tasks For Trainee DevOps (GlobalLigoc)
+Tasks For Trainee DevOps (GlobalLogic)
 
 I don’t know a lot of things yet, so it turned out how it turned out :)
 
